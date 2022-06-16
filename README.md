@@ -1,5 +1,3 @@
-# MoodMe_Mustache
-Technical assessment for MoodMe
 App has three pages: video creation, recordings page, and video display
 
 Video creation: Click on mustache to apply it to face and use the recording button to start and stop recording
