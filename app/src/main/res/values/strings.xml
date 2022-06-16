@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MoodMe Mustache</string>
+    <string name="go_video_text">Create new recording</string>
+    <string name="recording_top_title">Recordings</string>
+    <string name="start_recording">Start recording</string>
+    <string name="end_recording">Stop recording</string>
+    <string name="ok">OK</string>
+    <string name="tag_title">Set tag name</string>
+    <string name="edit_tag">Edit tag</string>
+</resources>

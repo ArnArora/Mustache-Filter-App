@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="10"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".recording_screen.RecordingsPage">
+
+    <TextView
+        android:id="@+id/recordings_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/recording_top_title"
+        android:textSize="24sp"
+        android:layout_marginTop="15dp"
+        android:layout_marginBottom="5dp"
+        />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recordings_list"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="10"
+        android:layout_marginTop="15dp"
+        />
+
+    <Button
+        android:id="@+id/go_video"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/go_video_text"
+        android:layout_marginTop="15dp"
+        android:layout_marginBottom="15dp"
+         />
+
+</LinearLayout>
