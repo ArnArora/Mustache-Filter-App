@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "421353155624",
+    "project_id": "moodme-mustache-app",
+    "storage_bucket": "moodme-mustache-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421353155624:android:fd983338bff6f55fe8591d",
+        "android_client_info": {
+          "package_name": "com.example.moodmemustache"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421353155624-p88qag10a4md8l07iem06qnotkvgc7v1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0HzFsTID1o0ZBmbATQ_RHO6faSRyY8R0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421353155624-p88qag10a4md8l07iem06qnotkvgc7v1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
